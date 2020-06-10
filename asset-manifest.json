@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Soundbored/static/css/main.3e7d667e.chunk.css",
+    "main.js": "/Soundbored/static/js/main.58dc0f79.chunk.js",
+    "main.js.map": "/Soundbored/static/js/main.58dc0f79.chunk.js.map",
+    "runtime-main.js": "/Soundbored/static/js/runtime-main.83951474.js",
+    "runtime-main.js.map": "/Soundbored/static/js/runtime-main.83951474.js.map",
+    "static/js/2.1fa54ed1.chunk.js": "/Soundbored/static/js/2.1fa54ed1.chunk.js",
+    "static/js/2.1fa54ed1.chunk.js.map": "/Soundbored/static/js/2.1fa54ed1.chunk.js.map",
+    "index.html": "/Soundbored/index.html",
+    "precache-manifest.9a83a1e321966cb2ce8f1f34b58ad81c.js": "/Soundbored/precache-manifest.9a83a1e321966cb2ce8f1f34b58ad81c.js",
+    "service-worker.js": "/Soundbored/service-worker.js",
+    "static/css/main.3e7d667e.chunk.css.map": "/Soundbored/static/css/main.3e7d667e.chunk.css.map",
+    "static/js/2.1fa54ed1.chunk.js.LICENSE.txt": "/Soundbored/static/js/2.1fa54ed1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.83951474.js",
+    "static/js/2.1fa54ed1.chunk.js",
+    "static/css/main.3e7d667e.chunk.css",
+    "static/js/main.58dc0f79.chunk.js"
+  ]
+}
